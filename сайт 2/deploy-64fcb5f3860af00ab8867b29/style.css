@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    background-image: url(./photo_2023-09-09_17-13-02.jpg);
+    background-position: 33%;
+   
+    background-repeat: no-repeat;
+}
+.lol{
+    display: flex;
+    justify-content: center;
+    color: #fc1d1ddb;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 29px;
+    margin-bottom: 104px;
+    opacity: 0.8;
+    border-radius: 46px;
+    background-color: blue;
+}
+
+.social-links {
+    margin-top: 91px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.social-links a {
+    text-decoration: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+.social-links img {
+    width: 115px;
+    border-radius: 27px;
+    margin-bottom: 111px
+}
